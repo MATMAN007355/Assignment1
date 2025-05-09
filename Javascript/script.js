@@ -1,15 +1,15 @@
-//  for (let i = 3; i <= 100; i +=2){
-//     console.log(i);
-// }
+ for (let i = 3; i <= 100; i +=2){
+    console.log(i);
+}
 
 
 
 
-// let s = 3; 
-// while( s <= 100 ){
-//     console.log(s);
-//     s+=2
-// }
+let s = 3; 
+while( s <= 100 ){
+    console.log(s);
+    s+=2
+}
    
 
 
